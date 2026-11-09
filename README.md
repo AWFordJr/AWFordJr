@@ -6,7 +6,7 @@
 ## 📦 My Free Apps
 | App | What it is | Download |
 |---|---|---|
-| [Tony Ford's Swarm Surge](https://github.com/AWFordJr/Tony-Fords-Swarm-Surge) | A free game for Windows, Linux, and Android | [v1.0](https://github.com/AWFordJr/Tony-Fords-Swarm-Surge/releases/tag/v1.0) |
+| [Tony Ford's Swarm Surge](https://github.com/AWFordJr/Tony-Fords-Swarm-Surge) | A free game for Windows, Linux, and Android | [v1.1.1](https://github.com/AWFordJr/Tony-Fords-Swarm-Surge#%EF%B8%8F-downloads-v111) |
 | [Tony Ford's Free Image Gallery](https://github.com/AWFordJr/tony-fords-free-image-gallery) | A free PHP and MySQL photo gallery with animated themes | [v1.0.0](https://github.com/AWFordJr/tony-fords-free-image-gallery/releases/tag/v1.0.0) |
 
 More free apps are coming soon, including Tony Ford's Free Linux.
