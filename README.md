@@ -6,7 +6,7 @@
 ## 📦 My Free Apps
 | App | What it is | Download |
 |---|---|---|
-| [Tony Ford's Swarm Surge](https://github.com/AWFordJr/Tony-Fords-Swarm-Surge) | A free game for Windows, Linux, and Android | [v1.2.1](https://github.com/AWFordJr/Tony-Fords-Swarm-Surge#%EF%B8%8F-downloads-v121) |
+| [Tony Ford's Swarm Surge](https://github.com/AWFordJr/Tony-Fords-Swarm-Surge) | A free game for Windows, Linux, and Android | [v1.3.0](https://github.com/AWFordJr/Tony-Fords-Swarm-Surge#%EF%B8%8F-downloads-v130) |
 | [Tony Ford's Free KJV Bible](https://github.com/AWFordJr/Tony-Fords-Free-KJV-Bible) | The full King James Bible, free and offline, with smart search | [v1.0.0](https://github.com/AWFordJr/Tony-Fords-Free-KJV-Bible#downloads) |
 | [Tony Ford's Free Image Gallery](https://github.com/AWFordJr/tony-fords-free-image-gallery) | A free PHP and MySQL photo gallery with animated themes | [v1.0.0](https://github.com/AWFordJr/tony-fords-free-image-gallery/releases/tag/v1.0.0) |
 
