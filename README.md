@@ -11,6 +11,14 @@
 | [Tony Ford's Free Image Gallery](https://github.com/AWFordJr/tony-fords-free-image-gallery) | A free PHP and MySQL photo gallery with animated themes | [v1.0.0](https://github.com/AWFordJr/tony-fords-free-image-gallery/releases/tag/v1.0.0) |
 | [Tony Ford's Free Linux](https://sourceforge.net/projects/tony-fords-free-linux/) | A free Linux for your PC | Free download on SourceForge (via [TonyFord.vip](https://tonyford.vip)) |
 
+## 📚 My Free Guides
+
+| Guide | Description |
+|---|---|
+| [**Catch the Leak: Track Who Sells Your Email**](https://github.com/AWFordJr/Tony-Fords-Free-Guides/tree/main/Catch-the-Leak) | A free, simple PDF guide: give every company its own email address with a free catch-all (Cloudflare Email Routing) and see exactly who sold or shared your email. Made by Grok AI Pro from my prompts. |
+
+More free guides: [Tony Ford's Free Guides](https://github.com/AWFordJr/Tony-Fords-Free-Guides)
+
 More free apps are coming soon.
 
 ## 📜 Terms
